@@ -3,7 +3,7 @@
 ###
 
 - Currently working as a DevOps Engineer with ArgoCD, Kubernetes, ArgoCD, Terraform, Atlantis, and more.
-- Learning Golang with the aim to create solutions to infra problems
+- Learning Golang with the aim to create solutions to infra problems.
 - I use Arch btw.
 
 ###
