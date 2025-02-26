@@ -2,7 +2,7 @@
 
 ###
 
-- Currently working as a DevOps Engineer with ArgoCD, Kubernetes, Terraform, Atlantis, and more.
+- Currently working as a DevOps Engineer.
 - Learning Golang with the aim to create solutions to infra problems.
 - I use Arch btw.
 
