@@ -4,7 +4,7 @@
 
 - Currently working as a DevOps Engineer.
 - Learning Golang with the aim to create solutions to infra problems.
-- I use Arch btw.
+- I use Arch btw. And NeoVim btw.
 
 ###
 
